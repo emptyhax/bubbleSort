@@ -5,6 +5,7 @@ Simple implementation of the Bubble Sort algorithm in different programming lang
 ## Languages Included
 
 - JavaScript
+- TypeScript
 - Java
 - C++
 - C#
@@ -26,6 +27,12 @@ g++ -o bubbleSort bubbleSort.cpp
 
 ### JavaScript
 ```bash
+node bubbleSort.js
+```
+
+### TypeScript
+```
+tsc bubbleSort.ts
 node bubbleSort.js
 ```
 
