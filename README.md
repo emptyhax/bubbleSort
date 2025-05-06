@@ -2,7 +2,7 @@
 
 Simple implementation of the Bubble Sort algorithm in different programming languages.
 
-## 📦 Languages Included
+## Languages Included
 
 - JavaScript
 - Java
@@ -11,12 +11,18 @@ Simple implementation of the Bubble Sort algorithm in different programming lang
 - Python
 - Kotlin
 
-## 📖 About
+## About
 
 This repo demonstrates how to implement the classic **Bubble Sort** algorithm in various languages.  
 Each implementation sorts an array of integers in **ascending order** using nested loops.
 
-## 📂 How to Run
+## How to Run
+
+### C++
+```bash
+g++ -o bubbleSort bubbleSort.cpp
+./bubbleSort
+```
 
 ### JavaScript
 ```bash
@@ -27,12 +33,6 @@ node bubbleSort.js
 ```bash
 javac BubbleSort.java
 java BubbleSort
-```
-
-### C++
-```bash
-g++ -o bubbleSort bubbleSort.cpp
-./bubbleSort
 ```
 
 ### C#
