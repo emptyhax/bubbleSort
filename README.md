@@ -25,7 +25,7 @@ node bubbleSort.js
 ### Java
 ```bash
 javac bubbleSort.java
-java BubbleSort
+java bubbleSort
 ```
 
 ### C++
