@@ -1,4 +1,4 @@
-# Bubble Sort in Multiple Languages
+# Bubble Sort in Multiple Languages.
 
 Simple implementation of the Bubble Sort algorithm in different programming languages.
 
