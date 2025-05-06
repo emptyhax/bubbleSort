@@ -24,7 +24,7 @@ node bubbleSort.js
 
 ### Java
 ```bash
-javac BubbleSort.java
+javac bubbleSort.java
 java BubbleSort
 ```
 
