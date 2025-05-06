@@ -22,5 +22,10 @@ public class bubbleSort {
 	    System.out.println();
     }
 
+    public static void main(String[] args) {
+	int[] arr = {1, 22, 94, 8, 14, 23, 9, 7, 104, 74, 0, 4, 64, 34, 91, 44, 53};
+	bubbleSort(arr);
+	printArray(arr);
+    }
   
 }
