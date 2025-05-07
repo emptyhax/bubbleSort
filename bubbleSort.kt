@@ -12,7 +12,7 @@ fun bubbleSort(arr: IntArray) {
 }
 
 fun main() {
-    val arr = intArrayOf(1, 22, 94, 8, 14, 23, 9, 7, 104, 74, 0, 4, 64, 34, 91, 44, 53)
+    val arr = intArrayOf(92, 1, 22, 94, 8, 14, 23, 9, 7, 104, 74, 0, 4, 64, 34, 91, 44, 53)
     bubbleSort(arr)
     println(arr.joinToString(", "))
 }
