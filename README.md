@@ -11,7 +11,7 @@ Simple implementation of the Bubble Sort algorithm in different programming lang
 - C#
 - Python
 - Kotlin
-
+- Rust
 ## About
 
 This repo demonstrates how to implement the classic **Bubble Sort** algorithm in various languages.  
@@ -57,6 +57,10 @@ python bubbleSort.py
 ```bash
 kotlinc BubbleSort.kt -include-runtime -d BubbleSort.jar
 java -jar BubbleSort.jar
+```
+### Rust
+```bash
+cargo run --bin bubbleSort
 ```
 
 ## ⚠️ Disclaimer
