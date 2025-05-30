@@ -1,4 +1,4 @@
-fun bubbleSort(arr: IntArray) {
+fun bubbleSort(arr: IntArray){
     
     for (i in 0 until arr.size - 1) {
 	for (j in 0 until arr.size - i - 1) {
